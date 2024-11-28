@@ -4,7 +4,7 @@ html, body {
     height: 100%;
     width: 100%;
     position: absolute;
-    background-color: black;
+    background-color: white;
     background-image: url('https://thumbs.dreamstime.com/z/spring-summer-season-abstract-nature-background-grass-blue-sky-back-49716369.jpg'); 
   }
   #display {
